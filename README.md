@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Julia747k/Julia747k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Introduction -->
+### Hi, I'm Julia!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ [Cybersecurity & Digital Infrastructure](https://www.ntnu.no/studier/bdigsec) student at NTNU<br/>
+💻 Interested in cybersecurity, systems, and software engineering<br/>
+🏋️ Hobbies include homelabbing, working out, programming, and CTFs<br/>
+🧠 Learning by building and breaking things<br/>
+🛒 Currently working on a full-stack project: a fully functioning shopping website<br/>
+🚩 Actively solving challenges on OverTheWire CTF<br/>
+
+
+<!--Github stats-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia747k)](https://github.com/anuraghazra/github-readme-stats)
