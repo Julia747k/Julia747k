@@ -7,7 +7,7 @@
 💻 Interested in cybersecurity, systems, and software engineering<br/>
 🏋️ Hobbies include homelabbing, working out, programming, and CTFs<br/>
 🧠 Learning by building and breaking things<br/>
-🛒 Currently working on a full-stack project: a fully [functioning shopping website](https://www.geeksforgeeks.org/javascript/design-a-online-grocery-website-in-html-css-javascript/)<br/>
+🤓 Currently building a full-stack CV website <br/>
 🚩 Actively solving challenges on [OverTheWire](https://overthewire.org/wargames/)<br/>
 
 <!--Tech stack--> 
