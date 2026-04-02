@@ -7,7 +7,6 @@
 💻 Interested in cybersecurity, systems, and software engineering<br/>
 🏋️ Hobbies include homelabbing, working out, programming, and CTFs<br/>
 🧠 Learning by building and breaking things<br/>
-🤓 Currently building a full-stack CV website <br/>
 🚩 Actively solving challenges on [OverTheWire](https://overthewire.org/wargames/)<br/>
 
 <!--Tech stack--> 
